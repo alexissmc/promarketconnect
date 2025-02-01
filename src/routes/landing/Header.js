@@ -79,7 +79,7 @@ const Header = ({
                   ResetLocation();
                   hideMenu();
                 }}
-                to="/Marketplace"
+                to="/marketplace"
                 className="text-white text-sm"
               >
                 MarketPlace
